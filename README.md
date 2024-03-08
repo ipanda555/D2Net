@@ -1,2 +1,2 @@
 # D2Net
-提供了D2Net的代码，代码提供了多种骨干网络，文章中使用的Resnet-50.
+Code for D2Net is provided, the code provides a variety of backbone networks, Resnet-50 used in the article.
